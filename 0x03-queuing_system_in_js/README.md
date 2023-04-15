@@ -6,7 +6,7 @@ Back-endJavaScriptES6RedisNodeJSExpressJSKue
 -   By: Johann Kerbrat, Engineering Manager at Uber Works
 -   Weight: 1
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/1/1486e02a78cdf7b4557c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&ampX-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220815%2Fus-east-1%2Fs3%2Faws4_request&ampX-Amz-Date=20220815T195509Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=35ec3a36d25c73a134fb0de3065010e6c5f93cba917db5eebd0ee999f3a10511)
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/1/1486e02a78cdf7b4557c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230415%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20230415T111523Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=07dfa74b73c59129a8c737ca517ddf695eae99a5100692cca50b6bed249ef6e3" alt="" loading="lazy" style="">
 
 Resources
 ---------
